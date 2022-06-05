@@ -8,6 +8,7 @@ const nextConfig = {
       "0.gravatar.com",
       "secure.gravatar.com",
       "cms.thenevertype.com",
+      "https://cms.thenevertype.com",
     ],
   },
 }

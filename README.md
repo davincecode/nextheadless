@@ -6,7 +6,7 @@
 
 3. Also a server-side rendered React frontend using Next.js powered by the WP REST API.
 
-4. Style library using Vanilla-Extract JS, a Typescript preprocessor.
+4. Style library using TailwindCSS.
 
 ## GET STARTED
 
