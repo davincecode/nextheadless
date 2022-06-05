@@ -14,6 +14,9 @@ export default function CoverImage({ title, coverImage, slug }) {
       })}
     />
   )
+  {
+    console.log(image)
+  }
   return (
     <div className="sm:mx-0">
       {slug ? (
