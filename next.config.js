@@ -7,7 +7,7 @@ const nextConfig = {
       process.env.WORDPRESS_API_URL.match(/(http(?:s)?:\/\/)(.*)/)[2], // Valid WP Image domain.
       "0.gravatar.com",
       "secure.gravatar.com",
-      "cms.thenevertype.com",
+      "nextcmsheadless.azurewebsites.net",
     ],
   },
 }
