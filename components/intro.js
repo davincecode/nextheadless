@@ -7,21 +7,7 @@ export default function Intro() {
         TheNeverType.
       </h1>
       <h4 className="mt-5 text-lg text-center md:text-left md:pl-8">
-        A statically generated blog example using{" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline transition-colors duration-200 hover:text-success"
-        >
-          Next.js
-        </a>{" "}
-        and{" "}
-        <a
-          href={CMS_URL}
-          className="underline transition-colors duration-200 hover:text-success"
-        >
-          {PROJ_NAME}
-        </a>
-        .
+        A Blog Portfolio using Next.js with Wordpress Headless CMS.
       </h4>
     </section>
   )

@@ -8,6 +8,7 @@ const nextConfig = {
       "0.gravatar.com",
       "secure.gravatar.com",
       "nextcmsheadless.azurewebsites.net",
+      "https://nextcmsheadless.azurewebsites.net/",
     ],
   },
 }
